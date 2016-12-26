@@ -1,0 +1,1 @@
+require_relative '../lib/chess_knight.rb'
